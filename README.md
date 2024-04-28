@@ -5,7 +5,7 @@
 </p>
 
 
-Hi, 👋 I'm ***forgocode***. You can call me ***Derek.***
+Hi, 👋 I'm ***derekgr97***. You can call me ***Derek.***
 
 I hope 🎈 i will be an excellent backend development engineer👨‍💻 in the future:).
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ## 📈Statistics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=forgocode&count_private=true&show_icons=true&title_color=333&text_color=777&icon_color=777"
+<img src="https://github-readme-stats.vercel.app/api?username=derekgr97&count_private=true&show_icons=true&title_color=333&text_color=777&icon_color=777"
 
 </p>
 <!-- 仓库设置 -->
